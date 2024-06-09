@@ -101,25 +101,27 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="«« ᴀᴅᴅ ᴍᴇ »»",
+            text="✿α∂∂ мє ιη уσυ ¢нαт✿",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+        InlineKeyboardButton(text="✿ѕυρєя ¢σммαη∂ѕ✿", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="ᴅᴇᴠs", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="ʟᴏᴠᴇ", callback_data="source_"),
+        InlineKeyboardButton(text="✿ 𝙻𝚘𝚟𝚎 ✿", callback_data="Softy_"),
+        InlineKeyboardButton(text="✿¢нαттιηg✿", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="ᴅᴏɴᴀᴛᴇ", callback_data="donation_help"),
+        InlineKeyboardButton(text="✿ᥴ᥅ꫀꪖꪻꪮ᥅✿", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="✿𝑠𝑢𝑝𝑝𝑜𝑟𝑡✿", url="https://t.me/BABA_BOTS_NETWORK"),
     ],
-   # [
- #       InlineKeyboardButton(text="📚 ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs", callback_data="Main_help"),
- #   ],
-    
-
+    [
+        InlineKeyboardButton(text="✿ Extra ✿", callback_data="Softy_support"),
+    ],
+    [
+        InlineKeyboardButton(text="♥️𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚♥️", url="https://github.com/BadshahAk/SoftyXbot"),
+    ],
 ]
 
 HELP_STRINGS = f"""
@@ -201,7 +203,7 @@ def start(update: Update, context: CallbackContext):
                     update.effective_chat.id,
                     HELPABLE[mod].__help__,
                     InlineKeyboardMarkup(
-                        [[InlineKeyboardButton(text="◁", callback_data="help_back")]]
+                        [[InlineKeyboardButton(text="《", callback_data="help_back")]]
                     ),
                 )
             elif args[0].lower() == "markdownhelp":
@@ -392,32 +394,17 @@ def Softy_about_callback(update: Update, context: CallbackContext):
             
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [
-        InlineKeyboardButton(text="🏡", callback_data="Softy_back"),
-        InlineKeyboardButton(text="🛡️", callback_data="Softy_"),
-        InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
-     ],
+                    
                     [
                         InlineKeyboardButton(
-                            text="🚩sᴜᴩᴩᴏʀᴛ", callback_data="Softy_support"
+                            text="Ｏｗｎｅｒ", url=f"https://t.me/King_X_Legend"
                         ),
                         InlineKeyboardButton(
-                            text="ᴄᴏᴍᴍᴀɴᴅs 💁", callback_data="Main_help"
+                         text="Ｃｏ-Ｏｗｎｅｒ", url=f"https://t.me/LegendBoy_hu"   
                         ),
                     ],
                     [
-                        InlineKeyboardButton(
-                            text="👨‍💻ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
-                        ),
-                        InlineKeyboardButton(
-                            text="🥀sᴏᴜʀᴄᴇ",
-                            callback_data="source_",
-                        ),
-                    ],
-                    [
-                        InlineKeyboardButton(text="◁", callback_data="Softy_back"),
+                        InlineKeyboardButton(text="《", callback_data="Softy_back"),
                     ],
                 ]
             ),
@@ -446,7 +433,7 @@ def Softy_about_callback(update: Update, context: CallbackContext):
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="◁", callback_data="Softy_"),
+                        InlineKeyboardButton(text="《", callback_data="Softy_"),
                     ],
                 ]
             ),
@@ -596,7 +583,10 @@ Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ 
                 [ 
                     [
                         InlineKeyboardButton(text="• Dᴏɴᴀᴛᴇ •", url="https://t.me/chla_jaaa_bsdk/3"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", callback_data="Softy_support")
-                    ]
+                    ],
+                    [
+                        InlineKeyboardButton(text="《", callback_data="Softy_back"),
+                    ],
                 ]
             ),
             )  
@@ -626,7 +616,9 @@ def Source_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [[
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://github.com/BadshahAk/SoftyXbot")
-                ],
+                ],[
+                        InlineKeyboardButton(text="《", callback_data="Softy_back"),
+                    ],
                  ]
             ),
         )
@@ -839,7 +831,7 @@ def get_help(update: Update, context: CallbackContext):
             chat.id,
             text,
             InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="◁", callback_data="help_back"),InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", callback_data="Softy_support")]]
+                [[InlineKeyboardButton(text="《", callback_data="help_back"),InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", callback_data="Softy_support")]]
             ),
         )
 
@@ -910,7 +902,7 @@ def settings_button(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="◁",
+                                text="《",
                                 callback_data="stngs_back({})".format(chat_id),
                             )
                         ]
