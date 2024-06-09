@@ -1082,8 +1082,8 @@ def main():
                 [
                     [
                         InlineKeyboardButton(
-                            text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ➕",
-                            url="https://t.me/groupcontrollertgbot?startgroup=true"
+                            text="✿α∂∂ мє ιη уσυ ¢нαт✿",
+                            url="https://t.me/SoftyXbot?startgroup=true"
                             )
                        ]
                 ]
@@ -1095,13 +1095,9 @@ def main():
                 photo=f"{START_IMG}",
                 caption=f"""
 ✨ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
-━━━━━━━━━━━━━
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ 𝐌ᴜᴋᴇsʜ**
-**ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
-**ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
-**ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
-**ᴩʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ:** `{pyrover}`
-━━━━━━━━━━━━━
+╔━━❖❖🖤❖❖━━╗
+◆💠◈ [Legend](https://t.me/pandit_Andy)◈💠◆
+╚━━❖❖🖤❖❖━━╝
 """,reply_markup=x,
                 parse_mode=ParseMode.MARKDOWN,
             )
