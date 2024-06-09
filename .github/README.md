@@ -1,6 +1,6 @@
 <p align="center"> 
 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=♥️Simi♥️&height=100&section=header"/> 
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=♥️𝑺𝒐𝒇𝒕𝒚 ༊·♥️&height=100&section=header"/> 
 
  </p> 
 
@@ -58,15 +58,15 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=♥️Simi♥️+Love+Chat+on+telegram;Chat+and+share+your+problem;Managed+by+ANDY%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=♥️𝑺𝒐𝒇𝒕𝒚 ༊·♥️+Love+Chat+on+telegram;Chat+and+share+your+problem;Managed+by+ANDY%E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=♥️Simi♥️+is+Best+Bot+with+♥️Love♥️;Love+my+self)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=♥️𝑺𝒐𝒇𝒕𝒚 ༊·♥️+is+Best+Bot+with+♥️Love♥️;Love+my+self)](https://git.io/typing-svg)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ff0080&multiline=true&height=150&lines=Simi♥️+is+a+python+based+Bot+♥️;New+Features+Installed.+you+use;bot+for+manage+Group+play;song+chatbot+and+many+More+features.+Red♥️;Heart+Themed+design+based.;this+bot+Credit+Goes+to+♥️SAGAR♥️.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ff0080&multiline=true&height=150&lines=𝑺𝒐𝒇𝒕𝒚 ༊·♥️+is+a+python+based+Bot+♥️;New+Features+Installed.+you+use;bot+for+manage+Group+play;song+chatbot+and+many+More+features.+Red♥️;Heart+Themed+design+based.;this+bot+Credit+Goes+to+♥️SAGAR♥️.)](https://git.io/typing-svg)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -78,11 +78,11 @@
 
 <h3 align="center">
 
-    ♥️𝐃𝐄𝐏𝐋𝐎𝐘 ᴏɴ ʜᴇʀᴏᴋᴜ♥️
+    ۝ 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 ۝
 
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BadshahAk/SimiRobot"> <img src="https://img.shields.io/badge/💜𝗗𝗘𝗣𝗟𝗢𝗬 ᴏɴ ʜᴇʀᴏᴋᴜ💜-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BadshahAk/SimiRobot"> <img src="https://img.shields.io/badge/۝ 𝐃𝐞𝐩𝐥𝐨𝐲 𝐨𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 ۝-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
