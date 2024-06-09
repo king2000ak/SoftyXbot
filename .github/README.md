@@ -82,7 +82,7 @@
 
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BadshahAk/SoftyRobot"> <img src="https://img.shields.io/badge/💜𝗗𝗘𝗣𝗟𝗢𝗬 ᴏɴ ʜᴇʀᴏᴋᴜ💜-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BadshahAk/SoftyXbot"> <img src="https://img.shields.io/badge/💜𝗗𝗘𝗣𝗟𝗢𝗬 ᴏɴ ʜᴇʀᴏᴋᴜ💜-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
