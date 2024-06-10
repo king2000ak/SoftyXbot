@@ -114,13 +114,11 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="✿ᥴ᥅ꫀꪖꪻꪮ᥅✿", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="✿𝑠𝑢𝑝𝑝𝑜𝑟𝑡✿", url="https://t.me/BABA_BOTS_NETWORK"),
-    ],
-    [
         InlineKeyboardButton(text="✿𝕄𝕦𝕤𝕚𝕔✿", callback_data="Music_"),
     ],
+    
     [
-        InlineKeyboardButton(text="♥️𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚♥️", url="https://github.com/BadshahAk/SoftyXbot"),
+        InlineKeyboardButton(text="♥️𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚♥️", callback_data="source_"),
     ],
     
 ]
