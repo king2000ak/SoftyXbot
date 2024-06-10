@@ -18,8 +18,8 @@ async def gps(bot, message):
     try:
         
         """
-        ---------github :-NOOB-MUKESH -----
-        ---------telegram : @itz_legend_coder-----
+        ---------github :-BadshahAk -----
+        ---------telegram : @King_X_Legend-----
         """
         geolocator = Nominatim(user_agent="legend-Mukesh")
 #         zoom=[0-18]
@@ -63,8 +63,8 @@ async def distance(bot, message):
     try:
 
         """
-        ---------github :-NOOB-MUKESH -----
-        ---------telegram : @itz_legend_coder-----
+        ---------github :-BadshahAk -----
+        ---------telegram : @King_X_Legend-----
         """
         distance=(great_circle(x,y).miles)
 
@@ -83,4 +83,4 @@ sᴇɴᴅs ʏᴏᴜ ᴛʜᴇ ɢᴘs ʟᴏᴄᴀᴛɪᴏɴ ᴏғ ᴛʜᴇ ɢɪᴠ
  ❍ /distance  to measure distance 
 """
 
-__mod_name__ = "Gᴘs"
+__mod_name__ = "🦚Gᴘs🐣"
