@@ -10,11 +10,11 @@ from telethon import __version__ as tver
 from SoftyXbot import SUPPORT_CHAT, pbot,BOT_USERNAME, OWNER_ID,BOT_NAME,START_IMG
 
 PHOTO = [
-    "https://telegra.ph/file/d2a23fbe48129a7957887.jpg",
-    "https://telegra.ph/file/ddf30888de58d77911ee1.jpg",
-    "https://telegra.ph/file/268d66cad42dc92ec65ca.jpg",
-    "https://telegra.ph/file/13a0cbbff8f429e2c59ee.jpg",
-    "https://telegra.ph/file/bdfd86195221e979e6b20.jpg",
+    "https://graph.org/file/eff568bdd6939e67e7f72.jpg",
+    "https://graph.org/file/a6f730b2b3c8f82a8e387.jpg",
+    "https://graph.org/file/c67295736df4a8d24c576.jpg",
+    "https://graph.org/file/9202a1221c6b9755da520.jpg",
+    "https://graph.org/file/de2bf742ce12d4ac49f86.jpg",
 ]
 
 Mukesh = [
@@ -24,7 +24,7 @@ Mukesh = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
+            text="✿α∂∂ мє ιη уσυ ¢нαт✿",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
@@ -36,29 +36,21 @@ Mukesh = [
 async def restart(client, m: Message):
     await m.delete()
     accha = await m.reply("⚡")
-    await asyncio.sleep(0.2)
+    await asyncio.sleep(0.1)
     await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ..")
 
     await accha.delete()
-    await asyncio.sleep(0.3)
+    await asyncio.sleep(0.1)
     umm = await m.reply_sticker(
-        "CAACAgUAAxkDAAJHbmLuy2NEfrfh6lZSohacEGrVjd5wAAIOBAACl42QVKnra4sdzC_uKQQ"
+        "CAACAgUAAyEFAASCvXg4AAMdZmai16Kk9TqpsFeP3U2mXfWWspEAAsoMAAJVYCBXO8ubTkCCvIIeBA"
     )
     await umm.delete()
-    await asyncio.sleep(0.2)
+    await asyncio.sleep(0.8)
     await m.reply_photo(
         START_IMG,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『[{BOT_NAME}](f"t.me/{BOT_USERNAME}")』**
-   ━━━━━━━━━━━━━━━━━━━
-  » **ᴍʏ ᴏᴡɴᴇʀ :** [ᴏᴡɴᴇʀ](tg://user?id={OWNER_ID})
-  
-  » **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
-  
-  » **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tver}`
-  
-  » **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pver}`
-  
-  » **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{pyver()}`
-   ━━━━━━━━━━━━━━━━━━━""",
+   ╔━━❖❖🖤❖❖━━╗
+◆💠◈ [Legend](https://t.me/King_X_Legend)◈💠◆
+╚━━❖❖🖤❖❖━━╝""",
         reply_markup=InlineKeyboardMarkup(Mukesh)
     )
