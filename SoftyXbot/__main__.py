@@ -123,7 +123,7 @@ buttons = [
         InlineKeyboardButton(text="♥️𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚♥️", url="https://github.com/BadshahAk/SoftyXbot"),
     ],
     [
-        InlineKeyboardButton(text="✿𝕄𝕦𝕤𝕚𝕔✿", callback_data="Music_""),
+        InlineKeyboardButton(text="✿𝕄𝕦𝕤𝕚𝕔✿", callback_data="Music_"),
     ],
 ]
 
