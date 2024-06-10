@@ -117,14 +117,12 @@ buttons = [
         InlineKeyboardButton(text="✿𝑠𝑢𝑝𝑝𝑜𝑟𝑡✿", url="https://t.me/BABA_BOTS_NETWORK"),
     ],
     [
-        InlineKeyboardButton(text="✿ Extra ✿", callback_data="Softy_support"),
+        InlineKeyboardButton(text="✿𝕄𝕦𝕤𝕚𝕔✿", callback_data="Music_"),
     ],
     [
         InlineKeyboardButton(text="♥️𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚♥️", url="https://github.com/BadshahAk/SoftyXbot"),
     ],
-    [
-        InlineKeyboardButton(text="✿𝕄𝕦𝕤𝕚𝕔✿", callback_data="Music_"),
-    ],
+    
 ]
 
 HELP_STRINGS = f"""
