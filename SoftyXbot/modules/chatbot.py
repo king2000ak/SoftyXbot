@@ -91,8 +91,8 @@ def mukesh(update: Update, context: CallbackContext):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton(text="ᴇɴᴀʙʟᴇ", callback_data="add_chat({})"),
-                InlineKeyboardButton(text="ᴅɪsᴀʙʟᴇ", callback_data="rm_chat({})"),
+                InlineKeyboardButton(text="𝐇𝐚𝐚𝐍", callback_data="add_chat({})"),
+                InlineKeyboardButton(text="𝐍𝐚𝐚𝐇", callback_data="rm_chat({})"),
             ],
         ]
     )
@@ -105,7 +105,7 @@ def mukesh(update: Update, context: CallbackContext):
 
 def mukesh_message(context: CallbackContext, message):
     reply_message = message.reply_to_message
-    if message.text.lower() == "mukesh":
+    if message.text.lower() == "Anand":
         return True
     elif BOT_USERNAME in message.text.upper():
         return True
