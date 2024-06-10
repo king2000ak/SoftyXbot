@@ -7,7 +7,7 @@ from SoftyXbot import dispatcher
 from SoftyXbot.modules.helper_funcs.alternate import send_message
 from SoftyXbot.modules.helper_funcs.chat_status import user_admin
 
-__mod_name__ = "Pʜᴏɴᴇ"
+__mod_name__ = "🦚Pʜᴏɴᴇ🐣"
 __help__ = """
 » /phone ꜰɪʟʟ ᴀɴʏ ᴍᴏʙɪʟᴇ ɴᴜᴍʙᴇʀ ᴛᴏ ᴄʜᴇᴄᴋ ɪɴꜰᴏ.
 """
