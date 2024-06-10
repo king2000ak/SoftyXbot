@@ -1,9 +1,9 @@
 """MIT License
 
-Copyright (c) 2023-24 Noob-Mukesh
+Copyright (c) 2023-24 BadshahAk
 
-          GITHUB: NOOB-MUKESH
-          TELEGRAM: @MR_SUKKUN
+          GITHUB: BadshahAk
+          TELEGRAM: @King_X_Legend
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -43,7 +43,7 @@ from pyrogram import filters
 #     hate= requests.get("https://mukesh-api.vercel.app/hateshayri").json()["results"]    
 #     await m.reply_text(hate)   
 
-# __mod_name__="​​Sʜᴀʏʀɪ"
+# __mod_name__="​​🦚Sʜᴀʏʀɪ🐣"
 
 # __help__="""ꜱᴇɴᴅ ʀᴀɴᴅᴏᴍ ꜱʜᴀʏʀɪ
 # ❍ /loveshayri : ʟᴏᴠᴇ ꜱʜᴀʏʀɪ
