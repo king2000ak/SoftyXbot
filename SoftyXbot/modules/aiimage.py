@@ -1,9 +1,9 @@
 """MIT License
 
-Copyright (c) 2023-24 Noob-Mukesh
+Copyright (c) 2023-24 BadshahAk
 
-          GITHUB: NOOB-MUKESH
-          TELEGRAM: @MR_SUKKUN
+          GITHUB: BadshahAk
+          TELEGRAM: @King_X_Legend
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -53,9 +53,9 @@ async def imagine_(b, message: Message):
         await mukesh.edit_text(f"error {e}")
     
 # -----------CREDITS -----------
-# telegram : @legend_coder
-# github : noob-mukesh
-__mod_name__ = "Aɪ ɪᴍᴀɢᴇ"
+# telegram : @King_X_Legend
+# github : BadshahAk
+__mod_name__ = "🦚Aɪ ɪᴍᴀɢᴇ🐣"
 __help__ = """
  ➻ /imagine : ɢᴇɴᴇʀᴀᴛᴇ Aɪ ɪᴍᴀɢᴇ ғʀᴏᴍ ᴛᴇxᴛ
  """
