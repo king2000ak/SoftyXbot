@@ -42,17 +42,17 @@
 
 <p align="center">
 
-<a href="https://github.com/BadshahAk/SoftyRobot/stargazers"><img src="https://img.shields.io/github/stars/BadshahAk/SoftyRobot?color=blue&logo=github&logoColor=blue&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/BadshahAk/SoftyXbot/stargazers"><img src="https://img.shields.io/github/stars/BadshahAk/SoftyXbot?color=blue&logo=github&logoColor=blue&style=for-the-badge" alt="Stars" /></a>
 
-<a href="BadshahAk/SoftyRobot/network/members"> <img src="https://img.shields.io/github/forks/BadshahAk/SoftyRobot?color=blue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="BadshahAk/SoftyXbot/network/members"> <img src="https://img.shields.io/github/forks/BadshahAk/SoftyXbot?color=blue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 
-<a href="https://github.com/BadshahAk/SoftyRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/BadshahAk/SoftyXbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /> </a>
 
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-blue?style=for-the-badge&logo=python" alt="Python" /> </a>
 
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=blue&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 
-<a href="https://github.com/BadshahAk/SoftyRobot/commits/BadshahAk"> <img src="https://img.shields.io/github/last-commit/BadshahAk/SoftyRobot?color=darkred&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/BadshahAk/SoftyXbot/commits/BadshahAk"> <img src="https://img.shields.io/github/last-commit/BadshahAk/SoftyXbot?color=darkred&logo=github&logoColor=blue&style=for-the-badge" /></a>
 
 </p>
 
@@ -96,7 +96,12 @@
 
 </h3>
 
-<a href="https://t.me/Honey_Singh_121"><img src="https://img.shields.io/badge/-♦️SAGAR TIWARI♦️-darkblue?style=for-the-badge&logo=Telegram"></a>
+<a href="https://github.com/stkeditz"><img src="https://img.shields.io/badge/-♦️SAGAR TIWARI♦️-darkblue?style=for-the-badge&logo=Telegram"></a>
+
+</p>
+</h3>
+
+<a href="https://github.com/vicky0604hello"><img src="https://img.shields.io/badge/-♦️Vicky Jaat♦️-Violet?style=for-the-badge&logo=Telegram"></a>
 
 </p>
 
