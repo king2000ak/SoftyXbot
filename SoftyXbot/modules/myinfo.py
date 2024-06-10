@@ -11,11 +11,11 @@ from SoftyXbot.events import register
 
 edit_time = 5
 f""" ======================={BOT_NAME}====================== """
-file1 = "https://telegra.ph/file/9a85d0a873e2dd80d278d.jpg"
-file2 = "https://telegra.ph/file/9e7815284031452afa9e5.jpg"
-file3 = "https://telegra.ph/file/dcc5e003287f69acea368.jpg"
-file4 = "https://telegra.ph/file/ed1ce7fee94f46b0f671e.jpg"
-file5 = "https://telegra.ph/file/701028ce085ecfa961a36.jpg"
+file1 = "https://graph.org/file/56aca2d1b1302f676cdea.jpg"
+file2 = "https://graph.org/file/ed1f1fa9cd4c2d7ec23c8.jpg"
+file3 = "https://graph.org/file/d7d98d6907e986970ebf2.jpg"
+file4 = "https://graph.org/file/e0baa6198d9a90d0b5ed1.jpg"
+file5 = "https://graph.org/file/6ebddd952793b7293f31f.jpg"
 """ ======================={BOT_NAME}====================== """
 
 
