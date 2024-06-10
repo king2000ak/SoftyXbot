@@ -83,4 +83,4 @@ help_text = """
 ❍ /zombies : starts searching for deleted accounts in the group.
 ❍ /zombies clean : removes the deleted accounts from the group.
 """
-__mod_name__ = "Zᴏᴍʙɪᴇ"
+__mod_name__ = "🦚Zᴏᴍʙɪᴇ🐣"
