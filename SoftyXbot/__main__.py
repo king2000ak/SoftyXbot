@@ -657,7 +657,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="• ʙᴀᴄᴋ •", callback_data="Main_help")
+                        InlineKeyboardButton(text="• ʙᴀᴄᴋ •", callback_data="Softy_back")
                     ],
                 ]
             ),
