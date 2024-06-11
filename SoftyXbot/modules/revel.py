@@ -22,7 +22,7 @@ from SoftyXbot import (
 from SoftyXbot import BOT_NAME,OWNER_ID
 from SoftyXbot import pbot as app
 @app.on_message(
-    filters.command(["con", "var"]) & filters.user(OWNER_ID)
+    filters.command(["Shreyanand"]) & filters.user(OWNER_ID)
 )
 async def get_vars(_, message: Message):
     try:
@@ -30,12 +30,12 @@ async def get_vars(_, message: Message):
             chat_id=int(OWNER_ID),
             text=f"""<u>**{BOT_NAME} ᴄᴏɴғɪɢ ᴠᴀʀɪᴀʙʟᴇs :**</u>
 
-**ʙᴏᴛ_ᴛᴏᴋᴇɴ :** `{TOKEN}`
+
 **sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ :** `{SUPPORT_CHAT}`
 **Sᴛᴀʀᴛ Iᴍᴀɢᴇ :** `{START_IMG}`
 **Aᴘɪ Iᴅ :** `{API_ID}`
 **Aᴘɪ Hᴀsʜ :** `{API_HASH}` 
-**Mᴏɴɢᴏ Uʀʟ :** `{MONGO_DB_URI}`   
+ 
 
 
 
