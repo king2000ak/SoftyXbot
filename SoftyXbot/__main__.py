@@ -110,7 +110,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="✿ 𝙻𝚘𝚟𝚎 ✿", callback_data="Softy_"),
-        InlineKeyboardButton(text="✿¢нαттιηg✿", url=f"https://t.me/{SUPPORT_CHAT}"),
+        
     ],
     [
         InlineKeyboardButton(text="✿ᥴ᥅ꫀꪖꪻꪮ᥅✿", url=f"tg://user?id={OWNER_ID}"),
